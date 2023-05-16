@@ -1,0 +1,44 @@
+[
+    {
+        "nombre": "Chanelle",
+        "categoryId": "Hombre",
+        "img": "/img/chanelle.png",
+        "id": 1,
+        "precio": 7800
+    },
+    {
+        "nombre": "Gabrielle",
+        "categoryId": "Hombre",
+        "img": "/img/gabrielle.png",
+        "id": 2,
+        "precio": 5500
+    },
+    {
+        "nombre": "Gold",
+        "categoryId": "Hombre",
+        "img": "/img/gold.png",
+        "id": 3,
+        "precio": 2500
+    },
+    {
+        "nombre": "Goldewa",
+        "categoryId": "Mujer",
+        "img": "/img/goldewa.png",
+        "id": 4,
+        "precio": 5000
+    },
+    {
+        "nombre": "Nisanto",
+        "categoryId": "Mujer",
+        "img": "/img/nisanto.png",
+        "id": 5,
+        "precio": 8500
+    },
+    {
+        "nombre": "Rosseto",
+        "categoryId": "Mujer",
+        "img": "/img/rosseto.png",
+        "id": 6,
+        "precio": 9000
+    }
+]
